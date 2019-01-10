@@ -1,1 +1,3 @@
-/home/valerey/IdeaProjects/webService/src/main/java/WebServletImpl.java
+/home/valerey/IdeaProjects/service/webService/src/main/java/servlets/WebServletImpl.java
+/home/valerey/IdeaProjects/service/webService/src/main/java/config/MysqlConfig.java
+/home/valerey/IdeaProjects/service/webService/src/main/java/baseController/MysqlConnectorImpl.java

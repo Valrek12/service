@@ -1,1 +1,3 @@
-WebServletImpl.class
+servlets/WebServletImpl.class
+config/MysqlConfig.class
+baseController/MysqlConnectorImpl.class

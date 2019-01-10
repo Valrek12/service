@@ -2,9 +2,11 @@ package servlets;
 
 import baseController.MysqlConnectorImpl;
 
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 import java.io.IOException;
 
+@WebServlet("/servlet")
 public class WebServletImpl extends HttpServlet {
     public void doGet(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse)
             throws IOException {
