@@ -2,6 +2,9 @@ package servlets;
 
 
 
+import org.hibernate.SessionFactory;
+import utils.HibernateSessionFactoryUtil;
+
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.*;
 import java.io.IOException;
