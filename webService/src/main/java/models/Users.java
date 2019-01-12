@@ -6,7 +6,7 @@ import java.sql.Timestamp;
 
 @Entity
 @Table(name = "account")
-public class users {
+public class Users {
     private int id;
     private String username;
     private String password;
