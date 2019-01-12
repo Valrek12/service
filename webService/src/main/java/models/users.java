@@ -2,8 +2,7 @@ package models;
 
 import javax.persistence.*;
 import java.sql.Timestamp;
-import java.util.ArrayList;
-import java.util.List;
+
 
 @Entity
 @Table(name = "account")
